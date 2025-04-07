@@ -1,0 +1,1 @@
+A Churn Prediction model based on the company data taken from Kaggle , using various python ML , DL libraries like Numpy , Pandas  , Matplotlib , Tensorflow , keras , Scikit-learn & seaborn (built on the top of matplotlib).
