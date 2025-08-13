@@ -154,6 +154,9 @@ export default function Home() {
              }
 
              onEndReached={handleLoadMore}
+
+            //  {/* this threshold (trigger) it triggers when the 10% away from end , this threshold ranges from 0.1 to 0.5 (10% to 50%) */}
+            
              onEndReachedThreshold={0.1}
              ListHeaderComponent={
                <View style={styles.header}>
